@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: opencsv-4.0.jar commons-lang3-3.6.jar commons-beanutils-1.9.
+ 3.jar commons-collections-3.2.2.jar commons-text-1.1.jar commons-loggin
+ g-1.2.jar
+
